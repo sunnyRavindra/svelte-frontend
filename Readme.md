@@ -1,5 +1,5 @@
 ### Get Started
-
+1. git clone from repo
 
 # create-svelte
 
