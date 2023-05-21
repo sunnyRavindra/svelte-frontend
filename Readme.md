@@ -1,5 +1,11 @@
 ### Get Started
-1. git clone from repo
+```
+ProjectName=my-app;
+git clone https://github.com/sunnyRavindra/svelte-frontend.git ProjectName;
+cd ProjectName;
+npm install;
+npm run dev;
+```
 
 # create-svelte
 
