@@ -1,4 +1,5 @@
 ### Get Started
+1. Change the ProjectName variable in the below script and run it in your workspace.
 ```
 ProjectName=my-app;
 git clone https://github.com/sunnyRavindra/svelte-frontend.git ProjectName;
